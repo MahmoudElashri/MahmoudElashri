@@ -17,8 +17,8 @@
 ```yaml
 Name: Mahmoud Elashri
 Location: Montreal, QC 🇨🇦
-Role: Full Stack Developer @ Shifratech
 Education: Computer Engineering @ Concordia 🎓
+Previous: Full Stack Dev @ Shifratech (Internship)
 Previous: AI Specialist @ Outlier AI
 Status: Building cool stuff & breaking things 🚀
 ```
@@ -28,43 +28,12 @@ Status: Building cool stuff & breaking things 🚀
 
 ### 🎮 Quick Stats
 
-🔭 **Current Focus:** Scalable APIs at Shifratech  
-🌱 **Learning:** Distributed Systems & Rust 🦀  
-💡 **Fun Fact:** 40% fewer bugs with TDD!  
-⚡ **Challenge:** Handling 50%+ more traffic  
-🤝 **Ask me about:** Web Dev, AI/ML, IoT
+🎓 **Current Focus:** Finishing my B.Eng at Concordia  
+🌱 **Learning:** AI/ML & Distributed Systems  
+💡 **Interests:** Web Dev, Embedded Systems, AI  
+⚡ **Latest Win:** 2nd place Autonomous Hexacraft  
+🤝 **Ask me about:** React, Laravel, Arduino, FPGA
 
-</td>
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
-### 💻 Tech Stack Highlights
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=react,nodejs" /><br />
-<sub><b>Full Stack Web</b></sub><br />
-<sub>React • Node.js • Express</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=python,java" /><br />
-<sub><b>Backend & AI</b></sub><br />
-<sub>Python • Java • C++</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=laravel,php" /><br />
-<sub><b>Laravel Expert</b></sub><br />
-<sub>PHP • Laravel • APIs</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://skillicons.dev/icons?i=arduino,linux" /><br />
-<sub><b>Embedded Systems</b></sub><br />
-<sub>Arduino • FPGA • IoT</sub>
 </td>
 </tr>
 </table>
