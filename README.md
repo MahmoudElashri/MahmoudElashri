@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A89BF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Mahmoud+Elashri+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast+%F0%9F%A4%96;Building+Cool+Stuff+with+Code+%F0%9F%9A%80;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MahmoudElashri&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-</p>
-
 ---
 
 ### 🎯 Currently Vibing With
@@ -199,9 +195,6 @@ while (alive):
   </a>
   <a href="https://github.com/MahmoudElashri">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:mahmoud.06607@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
