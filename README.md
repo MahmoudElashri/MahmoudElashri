@@ -237,11 +237,6 @@ while (alive):
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahmoudElashri&theme=tokyonight" alt="Most Commit Language" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahmoudElashri&theme=tokyonight" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MahmoudElashri&theme=tokyonight" alt="Productive Time" />
-</p>
-
 ---
 
 <div align="center">
