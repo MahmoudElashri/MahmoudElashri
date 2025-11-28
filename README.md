@@ -18,8 +18,8 @@
 Name: Mahmoud Elashri
 Location: Montreal, QC 🇨🇦
 Education: Computer Engineering @ Concordia 🎓
-Previous: Full Stack Dev @ Shifratech (Internship)
-Previous: AI Specialist @ Outlier AI
+Previous: Ex Full Stack Dev @ Shifratech
+Previous: Ex AI Specialist @ Outlier AI
 Status: Building cool stuff & breaking things 🚀
 ```
 
@@ -31,8 +31,8 @@ Status: Building cool stuff & breaking things 🚀
 🎓 **Current Focus:** Finishing my B.Eng at Concordia  
 🌱 **Learning:** AI/ML & Distributed Systems  
 💡 **Interests:** Web Dev, Embedded Systems, AI  
-⚡ **Latest Win:** 2nd place Autonomous Hexacraft  
-🤝 **Ask me about:** React, Laravel, Arduino, FPGA
+⚡ **Latest Win:** 2nd place Autonomous Hovercraft  
+🤝 **Ask me about:** AI, Web Development
 
 </td>
 </tr>
