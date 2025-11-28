@@ -4,33 +4,72 @@
 
 ---
 
-### 🎯 Currently Vibing With
+<div align="center">
 
-```javascript
-const mahmoud = {
-  location: "Montreal, QC 🇨🇦",
-  currentRole: "Full Stack Developer @ Shifratech",
-  education: "Computer Engineering @ Concordia University 🎓",
-  previousGig: "AI Specialist @ Outlier AI",
+## 🎯 Currently Vibing With
 
-  code: ["JavaScript", "Python", "Java", "C++", "TypeScript", "PHP", "VHDL"],
-  askMeAbout: ["web dev", "AI/ML", "embedded systems", "Arduino magic", "TDD"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "React Native", "Node.js", "Express.js", "Socket.io"],
-      css: ["Tailwind", "Bootstrap", "HTML/CSS"],
-    },
-    backEnd: ["Laravel", "Node.js", "PHP", "SQL"],
-    mobileApp: ["React Native"],
-    embedded: ["Arduino", "Xilinx Vivado", "FPGA"],
-    databases: ["MySQL", "PostgreSQL"],
-    misc: ["Git", "TDD", "Agile/Scrum", "REST APIs", "WebSockets"],
-  },
-  currentChallenge: "Building scalable APIs that handle 50%+ more traffic 🚀",
-  funFact:
-    "I reduced production bugs by 40% with TDD (yes, testing IS cool 😎)",
-};
+<table>
+<tr>
+<td width="50%">
+
+### 👨‍💻 About Me
+
+```yaml
+Name: Mahmoud Elashri
+Location: Montreal, QC 🇨🇦
+Role: Full Stack Developer @ Shifratech
+Education: Computer Engineering @ Concordia 🎓
+Previous: AI Specialist @ Outlier AI
+Status: Building cool stuff & breaking things 🚀
 ```
+
+</td>
+<td width="50%">
+
+### 🎮 Quick Stats
+
+🔭 **Current Focus:** Scalable APIs at Shifratech  
+🌱 **Learning:** Distributed Systems & Rust 🦀  
+💡 **Fun Fact:** 40% fewer bugs with TDD!  
+⚡ **Challenge:** Handling 50%+ more traffic  
+🤝 **Ask me about:** Web Dev, AI/ML, IoT
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+### 💻 Tech Stack Highlights
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=react,nodejs" /><br />
+<sub><b>Full Stack Web</b></sub><br />
+<sub>React • Node.js • Express</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=python,java" /><br />
+<sub><b>Backend & AI</b></sub><br />
+<sub>Python • Java • C++</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=laravel,php" /><br />
+<sub><b>Laravel Expert</b></sub><br />
+<sub>PHP • Laravel • APIs</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://skillicons.dev/icons?i=arduino,linux" /><br />
+<sub><b>Embedded Systems</b></sub><br />
+<sub>Arduino • FPGA • IoT</sub>
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
