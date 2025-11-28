@@ -31,8 +31,8 @@ Status: Building cool stuff & breaking things 🚀
 🎓 **Current Focus:** Finishing my B.Eng at Concordia  
 🌱 **Learning:** AI/ML & Distributed Systems  
 💡 **Interests:** Web Dev, Embedded Systems, AI  
-⚡ **Latest Win:** 2nd place Autonomous Hexacraft  
-🤝 **Ask me about:** React, Laravel, Arduino, FPGA
+⚡ **Latest Win:** 2nd place Autonomous Hovercraft  
+🤝 **Ask me about:** AI, Web Development
 
 </td>
 </tr>
