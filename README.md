@@ -1,16 +1,228 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A89BF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Mahmoud+Elashri+%F0%9F%91%8B;Full+Stack+Developer+%7C+AI+Enthusiast+%F0%9F%A4%96;Building+Cool+Stuff+with+Code+%F0%9F%9A%80;Turning+Coffee+into+Code+%E2%98%95%EF%B8%8F" alt="Typing SVG" />
+</div>
 
-<!--
-**MahmoudElashri/MahmoudElashri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MahmoudElashri&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Currently Vibing With
+
+```javascript
+const mahmoud = {
+  location: "Montreal, QC 🇨🇦",
+  currentRole: "Full Stack Developer @ Shifratech",
+  education: "Computer Engineering @ Concordia University 🎓",
+  previousGig: "AI Specialist @ Outlier AI",
+
+  code: ["JavaScript", "Python", "Java", "C++", "TypeScript", "PHP", "VHDL"],
+  askMeAbout: ["web dev", "AI/ML", "embedded systems", "Arduino magic", "TDD"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "React Native", "Node.js", "Express.js", "Socket.io"],
+      css: ["Tailwind", "Bootstrap", "HTML/CSS"],
+    },
+    backEnd: ["Laravel", "Node.js", "PHP", "SQL"],
+    mobileApp: ["React Native"],
+    embedded: ["Arduino", "Xilinx Vivado", "FPGA"],
+    databases: ["MySQL", "PostgreSQL"],
+    misc: ["Git", "TDD", "Agile/Scrum", "REST APIs", "WebSockets"],
+  },
+  currentChallenge: "Building scalable APIs that handle 50%+ more traffic 🚀",
+  funFact:
+    "I reduced production bugs by 40% with TDD (yes, testing IS cool 😎)",
+};
+```
+
+---
+
+### 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,java,cpp,php,laravel,html,css,tailwind,git,github,mysql,postgresql,arduino,linux&perline=9" />
+</p>
+
+<details>
+<summary>📊 <b>More About My Stack</b></summary>
+<br>
+
+**Languages I Speak (to Computers):**
+
+- 💛 JavaScript/TypeScript
+- 🐍 Python
+- ☕ Java
+- ⚡ C++
+- 🐘 PHP
+- 🗄️ SQL
+- 🔧 VHDL
+
+**Frameworks & Tools:**
+
+- ⚛️ React.js & React Native
+- 🟢 Node.js & Express.js
+- 🎨 Laravel
+- 🔌 Socket.io for real-time magic
+- 🧪 Jest & TDD enthusiast
+
+**Hardware & Embedded:**
+
+- 🤖 Arduino projects
+- 💾 FPGA programming (Xilinx Vivado)
+- 📡 Ultrasonic sensors & IR sensors
+
+</details>
+
+---
+
+### 🏆 Achievement Unlocked
+
+- 🚀 **30% Faster APIs** - Optimized Laravel backend for Shifratech
+- 📈 **50% More Traffic** - Scaled systems to handle concurrent users
+- 🐛 **40% Fewer Bugs** - Implemented TDD protocols across projects
+- 🤖 **15% LLM Accuracy Boost** - Advanced prompt engineering at Outlier AI
+- 🏅 **2nd Place** - Autonomous Hexacraft Competition (C, Arduino, Ultrasonic/IR)
+- ⚡ **15% Faster Hardware** - FPGA optimization wizardry
+- 🚗 **4.96/5.00 Uber Rating** - Because smooth code = smooth rides 😄
+
+---
+
+### 🎮 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+#### 🗨️ ChatHaven
+
+Real-time chat with Socket.io & Node.js
+
+- ⚡ 100+ concurrent users
+- 🎯 Minimal latency
+- 🔐 User authentication & online status
+- 👥 Group administration
+
+</td>
+<td width="50%">
+
+#### 🚗 Autonomous Hexacraft
+
+C + Arduino + Sensors
+
+- 🥈 2nd place out of 24 teams
+- 🎯 High-precision navigation
+- 📡 Multi-sensor fusion system
+- 🤖 Finite-state machine control
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+#### 💾 FPGA Occupancy Tracker
+
+VHDL on Nexys A7
+
+- 📊 95% accuracy
+- ⚡ 15% lower hardware utilization
+- 🔧 Real-time occupancy monitoring
+
+</td>
+<td width="50%">
+
+#### 🎓 VP @ Egyptian Student Association
+
+Leadership & Community
+
+- 📈 30% increased engagement
+- 🎉 3+ events per semester
+- 🤝 Community building
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudElashri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a89bf7&icon_color=79dafa&text_color=c0caf5" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudElashri&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a89bf7&text_color=c0caf5" alt="Top Languages" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudElashri&theme=tokyonight&hide_border=true&background=1a1b27&ring=a89bf7&fire=79dafa&currStreakLabel=c0caf5" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MahmoudElashri&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=79dafa&line=a89bf7&point=c0caf5" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🎯 What I'm Up To
+
+- 🔭 Building scalable APIs at **Shifratech** (Dubai/Montreal)
+- 🎓 Wrapping up my **B.Eng in Computer Engineering** at Concordia
+- 🧠 Diving deeper into **AI/ML** and **distributed systems**
+- 🤖 Experimenting with **embedded systems** and **IoT**
+- 💡 Always learning something new (currently exploring **Rust** 🦀)
+
+---
+
+### 💡 Random Dev Thoughts
+
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+> "First, solve the problem. Then, write the code." - John Johnson
+
+```python
+while (alive):
+    eat()
+    code()
+    sleep()
+    repeat()
+```
+
+---
+
+### 🌐 Let's Connect!
+
+<p align="center">
+  <a href="https://linkedin.com/in/mahmoudelashri">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/MahmoudElashri">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:mahmoud.06607@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="tel:+15144446603">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+</p>
+
+---
+
+### 🐍 Watch My Contribution Snake Eat My Commits!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahmoudElashri/MahmoudElashri/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahmoudElashri/MahmoudElashri/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MahmoudElashri/MahmoudElashri/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+  
+  ### 💭 "Talk is cheap. Show me the code." - Linus Torvalds
+  
+  **⭐ If you like my projects, consider starring them!**
+  
+  <img src="https://img.shields.io/github/followers/MahmoudElashri?label=Followers&style=social" alt="GitHub followers" />
+</div>
