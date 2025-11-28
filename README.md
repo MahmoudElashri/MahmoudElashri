@@ -168,7 +168,7 @@ Leadership & Community
 - 🎓 Wrapping up my **B.Eng in Computer Engineering** at Concordia
 - 🧠 Diving deeper into **AI/ML** and **distributed systems**
 - 🤖 Experimenting with **embedded systems** and **IoT**
-- 💡 Always learning something new (currently exploring **Rust** 🦀)
+- 💡 Always learning something new
 
 ---
 
