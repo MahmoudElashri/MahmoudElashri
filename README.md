@@ -225,10 +225,50 @@ while (alive):
 
 ---
 
-### 💻 Coding Activity
+### 🎨 Dynamic Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MahmoudElashri&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a89bf7&text_color=c0caf5" alt="Wakatime Stats" />
+  <img src="https://metrics.lecoq.io/MahmoudElashri?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&stars=1&habits=1&followup=1&lines=1&code=1&activity=1&achievements=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.trim=false&followup.sections=repositories&followup.indepth=false&activity.limit=5&activity.load=300&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FMontreal&config.twemoji=true&config.octicon=true&config.display=large" alt="Detailed Metrics" width="100%"/>
+</p>
+
+---
+
+### 🎯 Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/MahmoudElashri">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudElashri&repo=ChatHaven&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a89bf7&icon_color=79dafa&text_color=c0caf5" />
+  </a>
+  <a href="https://github.com/MahmoudElashri">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MahmoudElashri&repo=Autonomous-Hexacraft&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a89bf7&icon_color=79dafa&text_color=c0caf5" />
+  </a>
+</p>
+
+---
+
+### 🔥 Streak Stats & Contribution Heat
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=MahmoudElashri&theme=tokyonight&hide_border=true&background=1a1b27&ring=a89bf7&fire=ff6d00&currStreakLabel=79dafa&sideLabels=c0caf5&dates=c0caf5" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/a89bf7/MahmoudElashri" alt="GitHub Contribution Chart" />
+</p>
+
+---
+
+### 💼 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### 🎵 Spotify Playing
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=1a1b27&interchange=false&bar_color=a89bf7&bar_color_cover=true" alt="Spotify Now Playing" />
 </p>
 
 ---
