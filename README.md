@@ -84,7 +84,7 @@ const mahmoud = {
 - 🤖 **15% LLM Accuracy Boost** - Advanced prompt engineering at Outlier AI
 - 🏅 **2nd Place** - Autonomous Hexacraft Competition (C, Arduino, Ultrasonic/IR)
 - ⚡ **15% Faster Hardware** - FPGA optimization wizardry
-- 🚗 **4.96/5.00 Uber Rating** - Because smooth code = smooth rides 😄
+- 🎯 **25% Better UX** - Enhanced user engagement with React.js & React Native
 
 ---
 
@@ -191,8 +191,11 @@ while (alive):
 ### 🌐 Let's Connect!
 
 <p align="center">
-  <a href="https://linkedin.com/in/mahmoudelashri">
+  <a href="https://www.linkedin.com/in/mahmoud-elashri-a24a64210/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://mahmoud-elashri.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://github.com/MahmoudElashri">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -200,20 +203,51 @@ while (alive):
   <a href="mailto:mahmoud.06607@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="tel:+15144446603">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
-  </a>
 </p>
 
 ---
 
-### 🐍 Watch My Contribution Snake Eat My Commits!
+### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MahmoudElashri/MahmoudElashri/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MahmoudElashri/MahmoudElashri/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MahmoudElashri/MahmoudElashri/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/MahmoudElashri/MahmoudElashri/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/MahmoudElashri/MahmoudElashri/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/MahmoudElashri/MahmoudElashri/blob/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+
+### 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MahmoudElashri&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+### 💻 Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MahmoudElashri&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a89bf7&text_color=c0caf5" alt="Wakatime Stats" />
+</p>
+
+---
+
+### 📊 Detailed Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MahmoudElashri&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MahmoudElashri&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MahmoudElashri&theme=tokyonight" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MahmoudElashri&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MahmoudElashri&theme=tokyonight" alt="Productive Time" />
+</p>
 
 ---
 
