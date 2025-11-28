@@ -152,12 +152,12 @@ Leadership & Community
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudElashri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a89bf7&icon_color=79dafa&text_color=c0caf5" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudElashri&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a89bf7&text_color=c0caf5" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudElashri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a89bf7&icon_color=79dafa&text_color=c0caf5&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahmoudElashri&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=a89bf7&text_color=c0caf5&cache_seconds=1800" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MahmoudElashri&theme=tokyonight&hide_border=true&background=1a1b27&ring=a89bf7&fire=79dafa&currStreakLabel=c0caf5" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=MahmoudElashri&theme=tokyonight&hide_border=true&background=1a1b27&ring=a89bf7&fire=79dafa&currStreakLabel=c0caf5" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -168,10 +168,10 @@ Leadership & Community
 
 ### 🎯 What I'm Up To
 
-- 🔭 Building scalable APIs at **Shifratech** (Dubai/Montreal)
 - 🎓 Wrapping up my **B.Eng in Computer Engineering** at Concordia
 - 🧠 Diving deeper into **AI/ML** and **distributed systems**
-- 🤖 Experimenting with **embedded systems** and **IoT**
+- 🤖 Experimenting with **embedded systems** and **Arduino projects**
+- 💻 Building full-stack applications with **React** and **Laravel**
 - 💡 Always learning something new
 
 ---
