@@ -18,8 +18,8 @@
 Name: Mahmoud Elashri
 Location: Montreal, QC 🇨🇦
 Education: Computer Engineering @ Concordia 🎓
-Previous: Full Stack Dev @ Shifratech (Internship)
-Previous: AI Specialist @ Outlier AI
+Previous: Ex Full Stack Dev @ Shifratech
+Previous: Ex AI Specialist @ Outlier AI
 Status: Building cool stuff & breaking things 🚀
 ```
 
